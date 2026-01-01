@@ -58,7 +58,7 @@ const Services: React.FC = () => {
         </div>
 
         {/* Process Section */}
-        <div className="bg-white rounded-3xl p-12 shadow-xl mb-20">
+        <div className="bg-white rounded-3xl p-12  mb-20">
             <div className="text-center mb-12">
                 <h2 className="text-3xl font-bold text-slate-900 mb-4">How It Works</h2>
                 <p className="text-slate-600">Get protected in 3 simple steps</p>
