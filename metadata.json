@@ -1,0 +1,8 @@
+
+{
+  "name": "InsurePro - Enterprise Insurance Solutions",
+  "description": "A high-performance, modern insurance landing page with interactive AI advisor, statistics, and professional service sections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
