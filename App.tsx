@@ -18,7 +18,7 @@ const AppLayout: React.FC = () => {
   return (
     <div className="min-h-screen flex flex-col">
       {!isAdminPage && <Navbar />}
-      {!isAdminPage && <AIAdvisor />}
+      {/* {!isAdminPage && <AIAdvisor />} */}
       
       <main className="flex-grow">
         <Routes>
